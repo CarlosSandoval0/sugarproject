@@ -7,7 +7,11 @@
 
 “How many calories does a 16oz BodyArmor Peach Mango Lyte SuperDrink Sports Drink have?”
 
-
+# To run this project
+1. Download Zip
+1. Extract Zip
+1. Open with Jupyter Notebook
+1. You will need to fill in the 2nd cell in chapter 2. "x-app-id": "00000000", "x-app-key": "000000aaaaaaaaa000000000" 
 
 # The requirements I am meeting are
 
