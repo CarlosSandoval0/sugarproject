@@ -7,11 +7,20 @@
 
 “How many calories does a 16oz BodyArmor Peach Mango Lyte SuperDrink Sports Drink have?”
 
-# To run this project
+# To run this project with Jupyter Notebook
 1. Download Zip
 1. Extract Zip
 1. Open with Jupyter Notebook
-1. You will need to fill in the 2nd cell in chapter 2. "x-app-id": "00000000", "x-app-key": "000000aaaaaaaaa000000000" 
+1. You will need to fill in the 2nd cell in chapter 2. "x-app-id": "00000000", "x-app-key": "000000aaaaaaaaa000000000"
+
+To run this project in your browser
+1. Download Zip
+1. Extract Zip
+1. Go to https://jupyter.org/try
+1. Select "Try JupyterLab"
+1. Click "Open Files" (Up arrow located at the top left, 3rd one over from the blue plus sign)
+1. Click on the file to upload, in this case "sugarproject6.23.21.ipynb"
+1. You will need to fill in the 2nd cell in chapter 2. "x-app-id": "00000000", "x-app-key": "000000aaaaaaaaa000000000"
 
 # The requirements I am meeting are
 
