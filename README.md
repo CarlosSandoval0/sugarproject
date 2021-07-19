@@ -18,7 +18,7 @@ To run this project in your browser
 1. Extract Zip
 1. Go to https://jupyter.org/try
 1. Select "Try JupyterLab"
-1. Click "Open Files" (Up arrow located at the top left, 3rd one over from the blue plus sign)
+1. Click "Open Files" (Up arrow located at the top left)
 1. Click on the file to upload, in this case "sugarproject6.23.21.ipynb"
 1. You will need to fill in the 2nd cell in chapter 2. "x-app-id": "00000000", "x-app-key": "000000aaaaaaaaa000000000"
 
